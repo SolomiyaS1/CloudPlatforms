@@ -1,0 +1,12 @@
+{
+    "name": HW2",
+    "dockerFile": "Dockerfile",
+  
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "hashicorp.terraform",
+    "ms-python.python"
+]
+}
